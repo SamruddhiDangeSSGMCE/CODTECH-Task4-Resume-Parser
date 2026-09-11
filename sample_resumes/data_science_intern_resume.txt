@@ -1,0 +1,23 @@
+Alex Morgan
+Email: alex.morgan@techmail.com | Phone: +1-555-234-5678
+Location: San Francisco, CA | GitHub: github.com/alexmorgan-dev
+
+PROFESSIONAL SUMMARY:
+Data Science Intern with foundational expertise in Python, SQL, Machine Learning, and Data Analysis. Proven ability to build predictive models with Scikit-Learn and deploy data dashboards with Streamlit and Flask.
+
+EDUCATION:
+B.Tech in Information Technology
+National Institute of Technology (NIT) | 2020 - 2024
+
+SKILLS:
+• Programming: Python, SQL, R, JavaScript
+• Data Science: Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering
+• Machine Learning: Deep Learning, TensorFlow, NLP, XGBoost
+• Tools: Git, GitHub, Docker, MySQL, Tableau
+
+WORK EXPERIENCE:
+Data Science Intern | Apex Analytics
+June 2023 - December 2023
+• Built customer churn prediction models using Scikit-Learn and XGBoost with 84% accuracy.
+• Performed Exploratory Data Analysis (EDA) on 100,000+ customer records using Pandas.
+• Designed real-time monitoring dashboards using Streamlit and Tableau.
